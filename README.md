@@ -1,9 +1,3 @@
-<h1 align="center">Hi 👋, I'm Vijayendar Reddy</h1>
-<h3 align="center">Business & Data Analyst and Data Sceintist</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayendar0622&label=Profile%20views&color=0e75b6&style=flat" alt="vijayendar0622" /> </p>
-
-- 🌱 I’m currently learning **Visualization Techniques**
 
 - 📫 How to reach me **bvijayendar0603reddy@gmail.com**
 
