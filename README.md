@@ -1,5 +1,5 @@
 
-- 📫 How to reach me **bvijayendar0603reddy@gmail.com**
+-  to reach me **bvijayendar0603reddy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
